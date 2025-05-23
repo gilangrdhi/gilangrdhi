@@ -48,8 +48,12 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
-###
+### 🐍 GitHub Contribution Snake
 
+![snake gif](https://github.com/gilangrdhi/gilangrdhi/blob/output/github-contribution-grid-snake.svg)
+
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/317v22vhk5smjul2mhwxubl6pj4i">
