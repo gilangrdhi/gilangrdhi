@@ -7,8 +7,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=gilangrdhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangrdhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc4OTVpYXFrejJ1a243c2M2cmlieng0YWpvazB5cnBoZDJzanI4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif" height="150" alt="coding gif" />
 </div>
 
